@@ -1,1 +1,7 @@
+tensorflow
+tensorflow_text
 tensorflow_datasets
+pydantic
+pydantic-dotenv
+nltk
+Jinja
